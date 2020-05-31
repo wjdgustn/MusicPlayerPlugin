@@ -2,4 +2,5 @@
 /out/
 *.class
 *.jar
-*.nbs
+megalovania.nbs
+NoteBlockAPI-1.5.0.jar
