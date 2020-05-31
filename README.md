@@ -11,3 +11,6 @@
 [] : 선택 입력
 
 /play <파일명> : NBS 파일을 재생합니다.
+
+## 음악 라이센스
+ori.nbs : https://creativecommons.org/licenses/by-nc-nd/4.0/
