@@ -14,3 +14,4 @@
 
 ## 음악 라이센스
 ori.nbs : https://creativecommons.org/licenses/by-nc-nd/4.0/
+저작자 : [PatrickKR](https://github.com/patrick-mc)
