@@ -1,0 +1,5 @@
+/.idea/
+/out/
+*.class
+*.jar
+NoteBlockAPI-1.5.0.jar

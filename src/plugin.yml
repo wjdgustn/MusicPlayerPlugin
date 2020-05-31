@@ -1,0 +1,11 @@
+name: HYONSU_MusicPlayerPlugin
+main: com.hyonsu.musicplayer.main
+version: 1.0
+author: 정현수
+website: www.hyonsu.com
+api-version: "1.13"
+depend: [NoteBlockAPI]
+
+commands:
+  play:
+    description: NBS 파일을 재생합니다.
